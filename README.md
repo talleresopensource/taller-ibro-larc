@@ -9,3 +9,5 @@ Docentes: Marcos Coletti y Juan Ignacio Sanguinetti Scheck
 Colaboradores: Alejandro Cámera y Matías Andina
 
 Lista de reproducción en [YouTube](https://youtube.com/playlist?list=PL2ttpDKStgJAIu2jOuGwjMjh1IACVgq0k) incluyendo las charlas de oradorxs internacionales invitadxs.
+
+Realizado gracias al apoyo de la International Brain Research Organization (IBRO-LARC), la Sociedad Argentina de Investigación en Neurociencias y el Fondo Metropolitano de la Ciudad de Buenos Aires.
