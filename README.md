@@ -1,6 +1,6 @@
-# taller-ibro-larc
-Taller práctico abierto IBRO-LARC sobre adquisición de señales neuronales (Noviembre 2021)
- [Web](https://bit.ly/TALLERNEUROLATAM)
+## Taller práctico abierto IBRO-LARC sobre adquisición de señales neuronales (Noviembre 2021)
+
+[Página web](https://bit.ly/TALLERNEUROLATAM)
 
 Equipo organizador: Azul Silva, Cecilia Herbert, Marcos Coletti y Verónica de la Fuente
 
